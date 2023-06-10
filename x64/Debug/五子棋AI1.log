@@ -1,0 +1,24 @@
+﻿  AI.cpp
+  Chess.cpp
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(47,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(71,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(71,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(72,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(72,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(85,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(86,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(87,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(88,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(89,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(96,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(107,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(118,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(129,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(147,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS c++项目\五子棋AI1\五子棋AI1\Chess.cpp(148,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChessGame.cpp
+  Man.cpp
+  源.cpp
+D:\VS c++项目\五子棋AI1\五子棋AI1\源.cpp(5,30): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  五子棋AI1.vcxproj -> D:\VS c++项目\五子棋AI1\x64\Debug\五子棋AI1.exe
